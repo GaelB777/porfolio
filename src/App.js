@@ -10,12 +10,7 @@ function App() {
 <BrowserRouter>
     <div className= "navbar">
         <ul className= "rowMenu">
-            <li>
-                <a href="">A propos</a>
-            </li>
-            <li>
-                <a href="#encrage">Projet</a>
-            </li>
+
         </ul>
     </div>
 
