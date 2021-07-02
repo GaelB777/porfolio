@@ -9,7 +9,7 @@ function App() {
   return (
 <BrowserRouter>
     <div className= "navbar">
-   
+
     </div>
 
 
