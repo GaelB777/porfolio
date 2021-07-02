@@ -9,9 +9,7 @@ function App() {
   return (
 <BrowserRouter>
     <div className= "navbar">
-        <ul className= "rowMenu">
-
-        </ul>
+   
     </div>
 
 
