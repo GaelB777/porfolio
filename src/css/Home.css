@@ -1,0 +1,47 @@
+.main {
+    margin-top: 50px; /* Add a top margin to avoid content overlay */
+}
+
+.backgroundTop{
+    display: flex;
+    justify-content: center;
+    /*width: 100%;*/
+    /*min-width: 1000px;*/
+    height: 100vh;
+    /*margin-top: -190px;*/
+    background: url("./images/background1.jpg") no-repeat;
+
+    background-size:  cover;
+}
+.backgroundTop h1{
+    font-family: 'Open Sans', serif;
+    font-size: 7vw;
+    color: #fff;
+    margin-bottom: 0;
+    /*z-index: 1000;*/
+}
+.containerH1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    top: 200px;
+}
+
+.liens{
+    display: flex;
+    margin: 0;
+}
+.liens img{
+    margin-right: 3vw
+}
+img.github{
+    width: min(5vw, 35px);
+}
+img.messageLogo{
+    width: min(5vw, 35px);
+}
+img.linkedin{
+    width: min(5vw, 35px);
+}
+
